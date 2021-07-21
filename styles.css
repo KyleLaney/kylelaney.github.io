@@ -1,0 +1,64 @@
+div{
+	font-family: Arial;
+	height: 33%;
+	widows: 33%;
+}
+.table{
+	width: 350px;
+	height: 125px;
+	padding: 5px;
+	background: lightblue;
+	border: pink;
+}
+div.links{
+	color: beige;
+	align-content: center;
+}
+.tablediv{
+	border-color: cyan
+	padding: 10px;
+}
+h1.top{
+	color: chocolate;
+}
+h1.infopage{
+	color: chocolate;
+}
+td.textbox{
+	width: 400;
+	height: 200;
+}
+
+.pic{
+	height:100%;
+	width: 75%;
+	padding: 10px;
+	background: chocolate;
+}
+.infobox{
+	background: chocolate;
+	width: 50%;
+	height: 75%;
+}
+.p1{
+	font-size: large;
+}
+.p2{
+	font-size: large;
+}
+.p3{
+	font-size: large;
+}
+.p4{
+	font-size: large;
+}
+.p5{
+	font-size: large;
+}
+.p6{
+	font-size: large;
+}
+
+body{
+	background: beige;
+}
