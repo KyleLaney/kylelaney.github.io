@@ -1,0 +1,53 @@
+.frame{
+	height: 300px;
+	text-align: center;
+}
+
+.slidewrapper{
+	width: 400%;
+	height: 100%;
+	overflow: hidden;
+	animation: slideshow 10s;
+	animation-fill-mode: forwards;
+}
+
+
+.slide{
+	text-align: center;
+	height: 100%;
+	width: 25%;
+	float: left;
+	padding-top: 4%;
+	font-size: 24px;
+}
+
+
+.p1{
+	background-color: lightblue;
+}
+
+.p2{
+	background-color: lightpink;
+}
+
+.p3{
+	background-color: lightyellow;
+}
+
+.p4{
+	background-color: lightgreen;
+}
+
+@keyframes slideshow {
+	0%   {margin-left: 0%;}
+	25%  {margin-left: -100%;}
+	50%  {margin-left: -200%;}
+	75%  {margin-left: -300%;}
+	100% {margin-left: -300%;}
+}
+
+
+
+
+
+
