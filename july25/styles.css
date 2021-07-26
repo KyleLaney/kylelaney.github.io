@@ -1,0 +1,175 @@
+body{
+	background-color: white;
+	scroll-behavior: auto;
+	scroll-behavior: all;
+}
+
+.header{
+	margin-left: 100px;
+	
+}
+
+h2{
+	padding-left: 20px;
+	padding-top: 70px;
+}
+p{
+	color: darkgray;
+	padding-left: 20px;
+}
+
+.gbox{
+	width: 75%;
+	height: 75%;
+	background-color: lightgrey;
+	margin-left: 200px;
+	margin-top: 10px;
+	margin-bottom: 30px;
+}
+
+.cab{
+	padding: 5%;
+	padding-bottom: 10%;
+	background-color: lightgrey;
+	height: 50%;
+	width: 40%;
+	align-content: left;
+}
+
+.button{
+	background-color: green;
+	text-color: white;
+
+}
+
+.nyc{
+	margin: 15px;
+	border: 1px solid red;
+	width: 400px;
+	height: 280px;
+	border-radius: 150px;
+}
+
+.ny1{
+	float: left;
+}
+
+.ny2{
+	float: right;
+}
+
+
+.nyc{
+	margin-left: 53px;
+}
+
+
+.h11{
+	width: 200px;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.h22{
+	width: 200px;
+	text-align: center;
+	margin-left: 150px;
+	margin-right: auto;
+	padding-bottom: auto;
+	float: left;
+}
+
+.h33{
+	width: 200px;
+	text-align: center;
+	margin-left: auto;
+	margin-right: 110px;
+	float: right;
+}
+
+.p11{
+	width: 200px;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.p22{
+	width: 200px;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	float: left;
+}
+
+.p33{
+	width: 200px;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	float: right;
+}
+
+.grid{
+	border: 2px solid silver;
+	width: 30%;
+	height: 400px;
+	float: right;
+	margin-top: 120px;
+	padding-left: 60px;
+	margin-right: 40px;
+}
+
+div.bodygrid{
+	width: 100%;
+}
+
+img.pic{
+	width: 30%;
+	height: 50%;
+}
+img.gridpic{
+	border: 2px solid silver;
+	width: 120px;
+	height: 120px;
+}
+/*.fig{
+	width: 50px;
+	height: 50px;
+}
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
