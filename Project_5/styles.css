@@ -1,0 +1,27 @@
+body{
+    background: #b3ffff;
+    align-content: center;
+    border: 2px solid red;
+    /* text-align: center; */
+}
+
+.sneaker1{
+    width: 98%;
+    height: 350px;
+    border: 2px solid red;
+    margin-left: 10px;
+}
+
+.sneaker2{
+    width: 20%;
+    height: 20%;
+    border: 2px solid red;
+    margin-top: 2%;
+    margin-left: 10%;
+}
+
+h3 .p{
+    margin-top: 2%;
+    margin-left: 10%;
+}
+
